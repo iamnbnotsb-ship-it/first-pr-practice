@@ -7,3 +7,9 @@ A small practice repository for learning the GitHub pull request workflow.
 ```bash
 python3 greet.py Alice
 ```
+
+## Running tests
+
+```bash
+python3 -m unittest
+```
